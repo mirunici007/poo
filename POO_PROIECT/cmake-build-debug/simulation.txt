@@ -1,0 +1,24 @@
+RAPORT SIMULARE
+
+CONFIGURARI
+Harta: 10x10
+Durata simularii: 999 ticks
+Agenti: 3 drone, 2 roboti, 1 scutere
+
+REZULTATE
+
+PACHETE
+Pachete livrate: 8
+Pachete livrate cu intarziere: 40
+Pachete nelivrate: 2
+
+AGENTI
+Agentii in viata: 6
+Agenti morti: 0
+
+FINANTE
+Castiguri: +25150
+Costuri de operare: -323
+Penalizari: -2400
+PROFIT: +22827
+PROFITABIL
