@@ -1,3 +1,0 @@
-C:/Users/HP-15S/Desktop/POO_PROIECT/cmake-build-debug/CMakeFiles/POO_PROIECT.dir
-C:/Users/HP-15S/Desktop/POO_PROIECT/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/HP-15S/Desktop/POO_PROIECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
